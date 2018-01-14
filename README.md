@@ -19,15 +19,18 @@ Each of the next NN lines contains MM integers, between 00 and 100100 inclusive,
 Output
 Output the resulting image after convolution, consisting of H−N+1H−N+1 lines, each with W−M+1W−M+1 integers.
 
-Sample Input 1	Sample Output 1
-4 4 2 2			26 36 46
-				66 76 86
-				106 116 126
+Sample Input 1
+===============
+4 4 2 2																		
 1 2 3 4
 5 6 7 8
 9 10 11 12
 13 14 15 16
 1 2
 3 4
+																		Sample Output 1
+																			26 36 46
+																			66 76 86
+																			106 116 126
 
 */
